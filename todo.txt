@@ -1,0 +1,2 @@
+update dev-install.sh to be functional on ubuntu
+update dev-install.sh to be functional on mac

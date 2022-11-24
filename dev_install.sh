@@ -6,6 +6,7 @@ sudo apt install build-essential
 
 # Install nvim 
 
+mv nvimfiles nvim
 mv nvim ~/.config
 nvim  --headless -c 'autocmd User PackerComplete quitall'
 
