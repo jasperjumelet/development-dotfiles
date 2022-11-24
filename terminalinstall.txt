@@ -1,0 +1,5 @@
+download ohmyzsh: https://ohmyz.sh/
+download powerlevel10k for coloring: https://github.com/romkatv/powerlevel10k
+download a nerdfont: https://www.nerdfonts.com/
+download gogh for color palette: https://gogh-co.github.io/Gogh/
+
